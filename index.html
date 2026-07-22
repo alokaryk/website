@@ -1,0 +1,472 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Dr. Jai Prakash - Online Homeopathic Clinic</title>
+    <meta name="description" content="Dr. Jai Prakash's Online Homeopathic Clinic offers natural healing solutions with personalized care. Book your appointment today.">
+    <link rel="stylesheet" href="css/styles.css">
+    <!-- Google Fonts -->
+    <link href="https://fonts.googleapis.com/css2?family=Lato:wght@300;400;700&family=Open+Sans:wght@400;600;700&display=swap" rel="stylesheet">
+    <!-- Font Awesome for icons -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
+</head>
+<body>
+    <!-- Header Section -->
+    <header>
+        <div class="container header-container">
+            <div class="logo">
+                <img src="images/logo_option2.png" alt="Dr. Jai Prakash Homeopathic Clinic Logo">
+                <div class="logo-text">
+                    <h1>Dr. Jai Prakash</h1>
+                    <span>Homeopathic Practitioner</span>
+                </div>
+            </div>
+            
+            <button class="mobile-menu-btn">
+                <i class="fas fa-bars"></i>
+            </button>
+            
+            <nav class="nav-menu">
+                <ul>
+                    <li><a href="#home">Home</a></li>
+                    <li><a href="#about">About</a></li>
+                    <li><a href="#services">Services</a></li>
+                    <li><a href="#testimonials">Testimonials</a></li>
+                    <li><a href="#appointment">Book Appointment</a></li>
+                    <li><a href="#contact">Contact</a></li>
+                    <li class="language-selector">
+                        <select id="language-selector">
+                            <option value="en">English</option>
+                            <option value="hi">हिंदी</option>
+                        </select>
+                    </li>
+                </ul>
+            </nav>
+        </div>
+    </header>
+
+    <!-- Hero Section -->
+    <section id="home" class="hero" style="background-image: url('images/hero-image.webp'); background-size: cover; background-position: center;">
+        <div style="background-color: rgba(0, 0, 0, 0.5); width: 100%; height: 100%; position: absolute; top: 0; left: 0;"></div>
+        <div class="container hero-content" style="position: relative; z-index: 2;">
+            <h1 class="animate-on-scroll" style="color: #ffffff; text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.7);">Natural Healing for Complete Wellness</h1>
+            <p class="animate-on-scroll" style="color: #ffffff; text-shadow: 1px 1px 3px rgba(0, 0, 0, 0.7);">Experience the gentle power of homeopathy with Dr. Jai Prakash's personalized treatment approach that addresses the root cause of your health concerns.</p>
+            <div class="hero-buttons">
+                <a href="#appointment" class="btn">Book Appointment</a>
+                <a href="#about" class="btn btn-secondary">Learn More</a>
+            </div>
+        </div>
+    </section>
+
+    <!-- About Section -->
+    <section id="about" class="about mandala-bg">
+        <div class="container">
+            <div class="section-title">
+                <h2>About Dr. Jai Prakash</h2>
+            </div>
+            
+            <div class="about-content">
+                <div class="about-image animate-on-scroll">
+                    <img src="images/doctor.jpg" alt="Dr. Jai Prakash">
+                </div>
+                
+                <div class="about-text animate-on-scroll">
+                    <h3>Experienced Homeopathic Practitioner</h3>
+                    <p>Dr. Jai Prakash is a highly respected homeopathic doctor with 45 years of experience in treating various chronic and acute conditions. His dedication to homeopathic principles and patient care has made him a trusted healthcare provider in Baghpat, Uttar Pradesh.</p>
+                    
+                    <p>With a BSc. BMS degree from Lucknow, Dr. Prakash has dedicated his career to understanding and applying homeopathic treatments to help patients achieve optimal health through natural healing methods. His approach focuses on treating the whole person rather than just the symptoms, addressing the root causes of illness.</p>
+                    
+                    <h3>Our Philosophy</h3>
+                    <p>At our clinic, we believe in the body's innate ability to heal itself when given the right stimulus. Homeopathy works by stimulating this self-healing mechanism using highly diluted natural substances that match the patient's unique symptom pattern.</p>
+                    
+                    <p>We take time to understand each patient's physical, mental, and emotional state to prescribe remedies that work gently yet effectively, without side effects.</p>
+                </div>
+            </div>
+        </div>
+    </section>
+    
+    <div class="ayurvedic-divider"></div>
+
+    <!-- Services Section -->
+    <section id="services" class="services">
+        <div class="container">
+            <div class="section-title">
+                <h2>Our Services</h2>
+                <p>We offer comprehensive homeopathic treatment for a wide range of health conditions</p>
+            </div>
+            
+            <div class="services-grid">
+                <div class="service-card animate-on-scroll">
+                    <div class="service-image">
+                        <img src="images/chronic-disease.jpg" alt="Chronic Disease Management">
+                    </div>
+                    <div class="service-content">
+                        <h3>Chronic Disease Management</h3>
+                        <p>Effective homeopathic treatment for chronic conditions like arthritis, asthma, allergies, skin disorders, and digestive issues with long-lasting results.</p>
+                    </div>
+                </div>
+                
+                <div class="service-card animate-on-scroll">
+                    <div class="service-image">
+                        <img src="images/pediatric-care.jpg" alt="Pediatric Care">
+                    </div>
+                    <div class="service-content">
+                        <h3>Pediatric Care</h3>
+                        <p>Gentle and safe homeopathic remedies for children's health issues including recurrent infections, behavioral problems, developmental concerns, and more.</p>
+                    </div>
+                </div>
+                
+                <div class="service-card animate-on-scroll">
+                    <div class="service-image">
+                        <img src="images/womens-health-new.jpg" alt="Women's Health">
+                    </div>
+                    <div class="service-content">
+                        <h3>Women's Health</h3>
+                        <p>Specialized treatment for women's health concerns including hormonal imbalances, menstrual disorders, fertility issues, pregnancy support, and menopausal symptoms.</p>
+                    </div>
+                </div>
+                
+                <div class="service-card animate-on-scroll">
+                    <div class="service-image">
+                        <img src="images/mental-health.jpg" alt="Mental Health Support">
+                    </div>
+                    <div class="service-content">
+                        <h3>Mental Health Support</h3>
+                        <p>Holistic approach to mental health conditions like anxiety, depression, stress, insomnia, and attention disorders through constitutional homeopathic treatment.</p>
+                    </div>
+                </div>
+                
+                <div class="service-card animate-on-scroll">
+                    <div class="service-image">
+                        <img src="images/acute-conditions.jpg" alt="Acute Conditions">
+                    </div>
+                    <div class="service-content">
+                        <h3>Acute Conditions</h3>
+                        <p>Quick relief from acute conditions like fever, infections, injuries, and seasonal illnesses with targeted homeopathic remedies.</p>
+                    </div>
+                </div>
+                
+                <div class="service-card animate-on-scroll">
+                    <div class="service-image">
+                        <img src="images/lifestyle-counseling.jpg" alt="Lifestyle Counseling">
+                    </div>
+                    <div class="service-content">
+                        <h3>Lifestyle Counseling</h3>
+                        <p>Personalized guidance on diet, exercise, and lifestyle modifications to complement homeopathic treatment and promote overall wellness.</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Testimonials Section -->
+    <section id="testimonials" class="testimonials">
+        <div class="container">
+            <div class="section-title">
+                <h2>Patient Testimonials</h2>
+                <p>Read what our patients have to say about their healing journey</p>
+            </div>
+            
+            <div class="testimonial-slider">
+                <div class="testimonial-card">
+                    <div class="testimonial-content">
+                        <p>After suffering from chronic sinusitis for years and trying various treatments, Dr. Jai Prakash's homeopathic approach finally gave me lasting relief. His thorough consultation and personalized remedies made all the difference.</p>
+                    </div>
+                    <div class="testimonial-author">
+                        <img src="images/testimonial-1.jpg" alt="Rajesh Sharma">
+                        <div class="author-info">
+                            <h4>Rajesh Sharma</h4>
+                            <span>Delhi</span>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="testimonial-card">
+                    <div class="testimonial-content">
+                        <p>My 6-year-old daughter had recurrent ear infections and was constantly on antibiotics. Dr. Jai Prakash's gentle homeopathic treatment not only cured the infections but also strengthened her immunity. She hasn't had an infection in over a year now!</p>
+                    </div>
+                    <div class="testimonial-author">
+                        <img src="images/testimonial-2.jpg" alt="Priya Verma">
+                        <div class="author-info">
+                            <h4>Priya Verma</h4>
+                            <span>Gurgaon</span>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="testimonial-card">
+                    <div class="testimonial-content">
+                        <p>I had been struggling with severe eczema for decades. After just three months of treatment with Dr. Jai Prakash, my skin has cleared up dramatically. His holistic approach addressed not just my skin but my overall health and well-being.</p>
+                    </div>
+                    <div class="testimonial-author">
+                        <img src="images/testimonial-3.jpg" alt="Amit Patel">
+                        <div class="author-info">
+                            <h4>Amit Patel</h4>
+                            <span>Noida</span>
+                        </div>
+                    </div>
+                </div>
+                
+                <button class="testimonial-prev"><i class="fas fa-chevron-left"></i></button>
+                <button class="testimonial-next"><i class="fas fa-chevron-right"></i></button>
+            </div>
+        </div>
+    </section>
+    
+    <div class="ayurvedic-divider"></div>
+
+    <!-- Appointment Section -->
+    <section id="appointment" class="appointment">
+        <div class="container">
+            <div class="section-title">
+                <h2>Book an Appointment</h2>
+                <p>Schedule your consultation with Dr. Jai Prakash</p>
+            </div>
+            
+            <div class="appointment-form">
+                <form id="appointment-form">
+                    <div class="form-row">
+                        <div class="form-group">
+                            <label for="name">Full Name</label>
+                            <input type="text" id="name" name="name" class="form-control" placeholder="Your Name" required>
+                        </div>
+                        
+                        <div class="form-group">
+                            <label for="phone">Phone Number</label>
+                            <input type="tel" id="phone" name="phone" class="form-control" placeholder="Your Phone Number" required>
+                        </div>
+                    </div>
+                    
+                    <div class="form-group">
+                        <label for="email">Email Address</label>
+                        <input type="email" id="email" name="email" class="form-control" placeholder="Your Email Address" required>
+                    </div>
+                    
+                    <div class="form-group">
+                        <label for="condition">Health Concern</label>
+                        <input type="text" id="condition" name="condition" class="form-control" placeholder="Brief Description of Your Health Concern" required>
+                    </div>
+                    
+                    <div class="form-group">
+                        <label>Preferred Consultation Type</label>
+                        <div class="radio-group">
+                            <label>
+                                <input type="radio" name="consultation-type" value="online" checked> Online
+                            </label>
+                            <label>
+                                <input type="radio" name="consultation-type" value="in-person"> In-Person
+                            </label>
+                        </div>
+                    </div>
+                    
+                    <div class="calendar-container">
+                        <div class="calendar-header">
+                            <h3>Select Date</h3>
+                            <div>
+                                <button type="button" class="calendar-nav prev"><i class="fas fa-chevron-left"></i></button>
+                                <span class="current-month">June 2025</span>
+                                <button type="button" class="calendar-nav next"><i class="fas fa-chevron-right"></i></button>
+                            </div>
+                        </div>
+                        
+                        <div class="calendar-grid">
+                            <div class="calendar-day disabled">30</div>
+                            <div class="calendar-day disabled">31</div>
+                            <div class="calendar-day">1</div>
+                            <div class="calendar-day">2</div>
+                            <div class="calendar-day">3</div>
+                            <div class="calendar-day">4</div>
+                            <div class="calendar-day">5</div>
+                            <div class="calendar-day">6</div>
+                            <div class="calendar-day">7</div>
+                            <div class="calendar-day">8</div>
+                            <div class="calendar-day">9</div>
+                            <div class="calendar-day">10</div>
+                            <div class="calendar-day">11</div>
+                            <div class="calendar-day">12</div>
+                            <div class="calendar-day">13</div>
+                            <div class="calendar-day">14</div>
+                            <div class="calendar-day">15</div>
+                            <div class="calendar-day">16</div>
+                            <div class="calendar-day">17</div>
+                            <div class="calendar-day">18</div>
+                            <div class="calendar-day">19</div>
+                            <div class="calendar-day">20</div>
+                            <div class="calendar-day">21</div>
+                            <div class="calendar-day">22</div>
+                            <div class="calendar-day">23</div>
+                            <div class="calendar-day">24</div>
+                            <div class="calendar-day">25</div>
+                            <div class="calendar-day">26</div>
+                            <div class="calendar-day">27</div>
+                            <div class="calendar-day">28</div>
+                            <div class="calendar-day">29</div>
+                            <div class="calendar-day">30</div>
+                            <div class="calendar-day disabled">1</div>
+                            <div class="calendar-day disabled">2</div>
+                            <div class="calendar-day disabled">3</div>
+                        </div>
+                        
+                        <div class="time-slots-container" style="display: none;">
+                            <h3>Select Time</h3>
+                            <div class="time-slots">
+                                <div class="time-slot">9:00 AM</div>
+                                <div class="time-slot">9:30 AM</div>
+                                <div class="time-slot booked">10:00 AM</div>
+                                <div class="time-slot booked">10:30 AM</div>
+                                <div class="time-slot">11:00 AM</div>
+                                <div class="time-slot">11:30 AM</div>
+                                <div class="time-slot booked">12:00 PM</div>
+                                <div class="time-slot">4:00 PM</div>
+                                <div class="time-slot">4:30 PM</div>
+                                <div class="time-slot">5:00 PM</div>
+                                <div class="time-slot booked">5:30 PM</div>
+                                <div class="time-slot">6:00 PM</div>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class="form-group">
+                        <label for="message">Additional Information (Optional)</label>
+                        <textarea id="message" name="message" class="form-control" rows="3" placeholder="Any additional information you'd like to share"></textarea>
+                    </div>
+                    
+                    <div class="form-group">
+                        <label class="checkbox-label">
+                            <input type="checkbox" name="whatsapp-notifications" checked> Receive appointment reminders via WhatsApp
+                        </label>
+                    </div>
+                    
+                    <div class="form-group text-center">
+                        <button type="submit" class="btn" id="book-appointment-btn" disabled>Book Appointment</button>
+                    </div>
+                </form>
+            </div>
+        </div>
+    </section>
+
+    <!-- Contact Section -->
+    <section id="contact" class="contact">
+        <div class="container">
+            <div class="section-title">
+                <h2>Contact Us</h2>
+                <p>Get in touch with Dr. Jai Prakash's Homeopathic Clinic</p>
+            </div>
+            
+            <div class="contact-container">
+                <div class="contact-info">
+                    <div class="contact-card animate-on-scroll">
+                        <div class="contact-icon">
+                            <i class="fas fa-map-marker-alt"></i>
+                        </div>
+                        <div class="contact-details">
+                            <h4>Clinic Address</h4>
+                            <p>District Baghpat, Uttar Pradesh, India</p>
+                        </div>
+                    </div>
+                    
+                    <div class="contact-card animate-on-scroll">
+                        <div class="contact-icon">
+                            <i class="fas fa-phone-alt"></i>
+                        </div>
+                        <div class="contact-details">
+                            <h4>Phone</h4>
+                            <p>+91 9536183311</p>
+                        </div>
+                    </div>
+                    
+                    <div class="contact-card animate-on-scroll">
+                        <div class="contact-icon">
+                            <i class="fas fa-envelope"></i>
+                        </div>
+                        <div class="contact-details">
+                            <h4>Email</h4>
+                            <p>drjaiprakashclinic@gmail.com</p>
+                        </div>
+                    </div>
+                    
+                    <div class="contact-card animate-on-scroll">
+                        <div class="contact-icon">
+                            <i class="fas fa-clock"></i>
+                        </div>
+                        <div class="contact-details">
+                            <h4>Clinic Hours</h4>
+                            <p>Monday, Wednesday, Friday: 1:00 PM - 7:00 PM</p>
+                            <p>Other days: Online appointments only</p>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="contact-map animate-on-scroll">
+                    <!-- Updated Google Map for Baghpat -->
+                    <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d55679.91599029028!2d77.18496694863282!3d29.033145!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x390c2add3f1522b1%3A0x8e1c5a3b4e0c1fad!2sBaghpat%2C%20Uttar%20Pradesh!5e0!3m2!1sen!2sin!4v1686478825122!5m2!1sen!2sin" width="100%" height="100%" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Footer -->
+    <footer>
+        <div class="container">
+            <div class="footer-container">
+                <div class="footer-col">
+                    <h3>Dr. Jai Prakash</h3>
+                    <p>Providing holistic homeopathic healthcare solutions for over 45 years. Our mission is to help patients achieve optimal health through gentle, effective, and personalized treatment.</p>
+                    <div class="social-links">
+                        <a href="#"><i class="fab fa-facebook-f"></i></a>
+                        <a href="#"><i class="fab fa-twitter"></i></a>
+                        <a href="#"><i class="fab fa-instagram"></i></a>
+                        <a href="#"><i class="fab fa-youtube"></i></a>
+                    </div>
+                </div>
+                
+                <div class="footer-col">
+                    <h3>Quick Links</h3>
+                    <ul class="footer-links">
+                        <li><a href="#home">Home</a></li>
+                        <li><a href="#about">About Dr. Jai Prakash</a></li>
+                        <li><a href="#services">Our Services</a></li>
+                        <li><a href="#testimonials">Patient Testimonials</a></li>
+                        <li><a href="#appointment">Book Appointment</a></li>
+                        <li><a href="#contact">Contact Us</a></li>
+                    </ul>
+                </div>
+                
+                <div class="footer-col">
+                    <h3>Our Services</h3>
+                    <ul class="footer-links">
+                        <li><a href="#services">Chronic Disease Management</a></li>
+                        <li><a href="#services">Pediatric Care</a></li>
+                        <li><a href="#services">Women's Health</a></li>
+                        <li><a href="#services">Mental Health Support</a></li>
+                        <li><a href="#services">Acute Conditions</a></li>
+                        <li><a href="#services">Lifestyle Counseling</a></li>
+                    </ul>
+                </div>
+                
+                <div class="footer-col">
+                    <h3>Newsletter</h3>
+                    <p>Subscribe to our newsletter for health tips and updates</p>
+                    <form class="newsletter-form">
+                        <input type="email" placeholder="Your Email Address" required>
+                        <button type="submit" class="btn">Subscribe</button>
+                    </form>
+                </div>
+            </div>
+            
+            <div class="footer-bottom">
+                <p>&copy; 2025 Dr. Jai Prakash Homeopathic Clinic. All Rights Reserved.</p>
+            </div>
+        </div>
+    </footer>
+
+    <!-- WhatsApp Float Button -->
+    <a href="#" class="whatsapp-float">
+        <i class="fab fa-whatsapp"></i>
+    </a>
+
+    <!-- JavaScript -->
+    <script src="js/main.js"></script>
+</body>
+</html>
