@@ -1515,7 +1515,7 @@ print(</span><span class="CS0cqb" data-copy-service-computed-style="font-family:
 </span><span class="mexSqb" data-copy-service-computed-style="font-family: monospace; font-size: 14px; font-weight: 400; margin: 0px; text-decoration: none; border-bottom: 0px rgb(147, 52, 230);">&gt; </span><span class="undefined" data-copy-service-computed-style="font-family: monospace; font-size: 14px; font-weight: 400; margin: 0px; text-decoration: none; border-bottom: 0px rgb(10, 10, 10);">⚠️ *Review this script in a staging environment before running it on production servers.*
 
 </span><span class="elMj5d" data-copy-service-computed-style="font-family: monospace; font-size: 14px; font-weight: 400; margin: 0px; text-decoration: none; border-bottom: 0px rgb(197, 34, 31);">```bash
-# [Brief description of what this command block does]
+ [Brief description of what this command block does]
 YOUR_SAFE_REMEDIATION_COMMANDS_HERE
 ```</span><span class="undefined" data-copy-service-computed-style="font-family: monospace; font-size: 14px; font-weight: 400; margin: 0px; text-decoration: none; border-bottom: 0px rgb(10, 10, 10);">
 
