@@ -1153,3 +1153,208 @@
 <div data-sfc-root="ep"><!--TgQPHd|||[]--></div>
 <div data-sfc-root="ep"><!--TgQPHd|||[]--></div>
 <!-- Comments are visible in the HTML source only -->
+
+<div data-sfc-cp="" data-sfc-root="ep">
+<div data-sfc-cp="" data-sfc-root="ep">
+<div data-sfc-cp="" data-sfc-root="ep"><span data-sfc-cp="" data-sfc-root="ep">Install Windows 11 as your primary operating system.<!--TgQPHd|||[]--></span><!--TgQPHd|||[]--></div>
+<div data-sfc-cp="" data-sfc-root="ep">While Linux is traditionally the absolute king for local AI development, your business model requires <span data-sfc-cp="" data-sfc-root="ep">heavy 4K video editing for US YouTube Shorts<!--TgQPHd|||[]--></span>, which completely changes the equation.<!--TgQPHd|||[]--></div>
+<div data-sfc-cp="" data-sfc-root="ep">Here is a direct breakdown of why Windows wins for your specific hybrid workload, followed by the perfect middle-ground solution.<!--TgQPHd|||[]--></div>
+<hr data-sfc-root="ep" data-sfc-pl="|||[]" />
+<h2 data-sfc-cp="" data-sfc-root="ep">Why Windows 11 is the Better Choice<!--TgQPHd|||[]--></h2>
+<div data-sfc-cp="" data-sfc-root="ep">
+<div>&nbsp;</div>
+<ul>
+<li data-sfc-cp="" data-sfc-root="ep"><span data-sfc-cp="" data-sfc-root="ep">The Video Editing Trap on Linux:<!--TgQPHd|||[]--></span> The software you will be using to edit your Shorts&mdash;like <span data-sfc-cp="" data-sfc-root="ep">CapCut Desktop<!--TgQPHd|||[]--></span> or the Adobe Creative Cloud suite&mdash;<span data-sfc-cp="" data-sfc-root="ep">does not natively support Linux<!--TgQPHd|||[]--></span>. While professional software like DaVinci Resolve runs on Linux, setting up the necessary audio codecs (like AAC) and getting it to play nicely with MP4 files on Linux is an absolute nightmare for beginners. CapCut on Windows works instantly out of the box.<!--TgQPHd|||[]--></li>
+<li data-sfc-cp="" data-sfc-root="ep"><span data-sfc-cp="" data-sfc-root="ep">Flawless NVIDIA Drivers:<!--TgQPHd|||[]--></span> NVIDIA graphics cards require proprietary drivers. While Linux has made massive leaps, installing, updating, and troubleshooting NVIDIA drivers on Linux can occasionally break your desktop display interface after a system update. On Windows, the <span data-sfc-cp="" data-sfc-root="ep">NVIDIA Studio Driver<!--TgQPHd|||[]--></span> updates with a single click and gives you maximum stability during 4K exports.<!--TgQPHd|||[]--></li>
+</ul>
+<!--TgQPHd|||[]--></div>
+<hr data-sfc-root="ep" data-sfc-pl="|||[]" />
+<h2 data-sfc-cp="" data-sfc-root="ep">If You <em data-sfc-root="ep">Must<!--TgQPHd|||[]--></em> Choose Linux: The Best Flavor<!--TgQPHd|||[]--></h2>
+<div data-sfc-cp="" data-sfc-root="ep">If you are deeply committed to open-source software or want absolute bare-metal performance for local AI without Windows background telemetry, you should install:<!--TgQPHd|||[]--></div>
+<div data-sfc-cp="" data-sfc-root="ep"><span data-sfc-cp="" data-sfc-root="ep">Ubuntu 24.04 LTS (Noble Numbat)<!--TgQPHd|||[]--></span> or <span data-sfc-cp="" data-sfc-root="ep">Pop!_OS<!--TgQPHd|||[]--></span><!--TgQPHd|||[]--></div>
+<div data-sfc-cp="" data-sfc-root="ep">
+<div>&nbsp;</div>
+<ul>
+<li data-sfc-cp="" data-sfc-root="ep"><span data-sfc-cp="" data-sfc-root="ep">Why Ubuntu / Pop!_OS:<!--TgQPHd|||[]--></span> These are Debian-based distributions with the massive community support required for AI.<!--TgQPHd|||[]--></li>
+<li data-sfc-cp="" data-sfc-root="ep"><span data-sfc-cp="" data-sfc-root="ep">The Killer Feature:<!--TgQPHd|||[]--></span> Pop!_OS (developed by System76) offers a <span data-sfc-cp="" data-sfc-root="ep">dedicated ISO download that comes with NVIDIA drivers pre-installed<!--TgQPHd|||[]--></span>. It configures your CUDA and Tensor cores automatically during installation, saving you hours of terminal troubleshooting.<!--TgQPHd|||[]--></li>
+<li data-sfc-cp="" data-sfc-root="ep"><span data-sfc-cp="" data-sfc-root="ep">The Linux Editing Fix:<!--TgQPHd|||[]--></span> Since CapCut won't work natively, you will have to learn <span data-sfc-cp="" data-sfc-root="ep">Kdenlive<!--TgQPHd|||[]--></span> (free, open-source) or buy the paid version of <span data-sfc-cp="" data-sfc-root="ep">DaVinci Resolve Studio<!--TgQPHd|||[]--></span> for Linux to handle your 4K content.<!--TgQPHd|||[]--></li>
+</ul>
+<!--TgQPHd|||[]--></div>
+<hr data-sfc-root="ep" data-sfc-pl="|||[]" />
+<h2 data-sfc-cp="" data-sfc-root="ep">💡 The Winning Solution: The Best of Both Worlds<!--TgQPHd|||[]--></h2>
+<div data-sfc-cp="" data-sfc-root="ep">You do not have to choose just one. Since you are building a powerful desktop with <span data-sfc-cp="" data-sfc-root="ep">32GB of RAM<!--TgQPHd|||[]--></span>, you should use <span data-sfc-cp="" data-sfc-root="ep">Windows 11 as your main OS<!--TgQPHd|||[]--></span>, and then activate <span data-sfc-cp="" data-sfc-root="ep">WSL 2 (Windows Subsystem for Linux)<!--TgQPHd|||[]--></span>.<!--TgQPHd|||[]--></div>
+<div data-sfc-cp="" data-sfc-root="ep">
+<div>&nbsp;</div>
+<ol>
+<li data-sfc-cp="" data-sfc-root="ep"><span data-sfc-cp="" data-sfc-root="ep">Keep Windows 11<!--TgQPHd|||[]--></span> for your high-speed 4K editing on CapCut, color grading on your IPS monitor, and seamless file transfers to your Android phone.<!--TgQPHd|||[]--></li>
+<li data-sfc-cp="" data-sfc-root="ep"><span data-sfc-cp="" data-sfc-root="ep">Run Ubuntu inside Windows<!--TgQPHd|||[]--></span> using WSL 2. It allows you to open a native Linux terminal inside Windows. Docker, Python, Ollama, and LM Studio can tap directly into your desktop's RTX 4060 GPU inside this Linux layer with zero performance loss.<!--TgQPHd|||[]--></li>
+</ol>
+<!--TgQPHd|||[]--></div>
+<div data-sfc-cp="" data-sfc-root="ep">This hybrid setup gives you the unmatched AI programming environment of Linux alongside the mainstream creative software ecosystem of Windows.<!--TgQPHd|||[]--></div>
+<div data-sfc-cp="" data-sfc-root="ep">Would you like me to include instructions on <span data-sfc-cp="" data-sfc-root="ep">how to set up WSL 2 with NVIDIA GPU acceleration<!--TgQPHd|||[]--></span> once your desktop is assembled, or would you prefer a guide on how to dual-boot both Windows and Linux on separate SSD partitions?<!--TgQPHd|||[]--></div>
+<div data-sfc-root="ep"><br /><!--TgQPHd|||[]--></div>
+<div data-sfc-root="ep"><!--TgQPHd|||[]--></div>
+<div data-sfc-root="ep"><!--TgQPHd|||[]--></div>
+<div data-sfc-root="ep">&nbsp;</div>
+<div data-sfc-root="ep">
+<div data-sfc-cp="" data-sfc-root="ep"><mark data-sfc-cp="" data-sfc-root="ep"><span data-sfc-cp="" data-sfc-root="ep">CapCut Desktop for Windows is proprietary, licensed software&mdash;it is NOT open-source.<!--TgQPHd|||[]--></span><!--TgQPHd|||[]--></mark> It is developed and owned by ByteDance (the parent company of TikTok).<span data-sfc-root="ep"> [1] <!--TgQPHd|||[]--></span><!--TgQPHd|||[]--></div>
+<div data-sfc-cp="" data-sfc-root="ep">However, <span data-sfc-cp="" data-sfc-root="ep">you do not necessarily have to pay for it.<!--TgQPHd|||[]--></span> It operates on a <span data-sfc-cp="" data-sfc-root="ep">"Freemium" model<!--TgQPHd|||[]--></span>, meaning it offers a highly functional free tier alongside a paid subscription tier.<span data-sfc-root="ep"> [1, 2] <!--TgQPHd|||[]--></span><!--TgQPHd|||[]--></div>
+<div data-sfc-cp="" data-sfc-root="ep">Here is exactly how the pricing model works for your desktop workflow:<!--TgQPHd|||[]--></div>
+<h2 data-sfc-cp="" data-sfc-root="ep">1. The Free Tier (Standard) &mdash; ₹0<!--TgQPHd|||[]--></h2>
+<div data-sfc-cp="" data-sfc-root="ep">You can download <a href="https://www.capcut.com/tools/desktop-video-editor" data-sfc-cp="" data-sfc-root="ep">CapCut Desktop<!--TgQPHd|||[]--></a> from the official website or the Microsoft Store completely for free. Unlike the mobile app, <span data-sfc-cp="" data-sfc-root="ep">the desktop free tier allows you to export videos without a watermark<!--TgQPHd|||[]--></span>.<span data-sfc-root="ep"> [1, 2, 3, 4] <!--TgQPHd|||[]--></span><!--TgQPHd|||[]--></div>
+<div data-sfc-cp="" data-sfc-root="ep">The free tier includes:<!--TgQPHd|||[]--></div>
+<div data-sfc-cp="" data-sfc-root="ep">
+<div>&nbsp;</div>
+<ul>
+<li data-sfc-cp="" data-sfc-root="ep"><!--TgQPHd|||[]--></li>
+<li data-sfc-cp="" data-sfc-root="ep">Basic timeline video cutting, splitting, and multi-track audio blending.<!--TgQPHd|||[]--></li>
+<li data-sfc-cp="" data-sfc-root="ep">Speed curves, text layouts, stickers, and foundational transitions.<!--TgQPHd|||[]--></li>
+<li data-sfc-cp="" data-sfc-root="ep">Standard AI tools and a generous selection of built-in assets.<!--TgQPHd|||[]--></li>
+<li data-sfc-cp="" data-sfc-root="ep"><span data-sfc-cp="" data-sfc-root="ep">The Catch:<!--TgQPHd|||[]--></span> If you use an effect, filter, or text style that has a tiny <span data-sfc-cp="" data-sfc-root="ep">purple "Pro" icon<!--TgQPHd|||[]--></span> next to it, CapCut will block you at the very end when you try to export and demand you pay for the subscription.<span data-sfc-root="ep"> [2, 4, 5, 6, 7] <!--TgQPHd|||[]--></span><!--TgQPHd|||[]--></li>
+<li data-sfc-cp="" data-sfc-root="ep"><!--TgQPHd|||[]--></li>
+</ul>
+<!--TgQPHd|||[]--></div>
+<h2 data-sfc-cp="" data-sfc-root="ep">2. CapCut Pro &mdash; ~$19.99 / month (Approx. ₹1,650/month)<!--TgQPHd|||[]--></h2>
+<div data-sfc-cp="" data-sfc-root="ep">If you want to use the software's highest-tier capabilities, you will need to pay for <span data-sfc-cp="" data-sfc-root="ep">CapCut Pro<!--TgQPHd|||[]--></span>.<span data-sfc-root="ep"> [6, 8] <!--TgQPHd|||[]--></span><!--TgQPHd|||[]--></div>
+<div data-sfc-cp="" data-sfc-root="ep">For your specific <span data-sfc-cp="" data-sfc-root="ep">US YouTube Shorts channel<!--TgQPHd|||[]--></span>, upgrading to Pro unlocks critical professional levers:<!--TgQPHd|||[]--></div>
+<div data-sfc-cp="" data-sfc-root="ep">
+<div>&nbsp;</div>
+<ul>
+<li data-sfc-cp="" data-sfc-root="ep"><!--TgQPHd|||[]--></li>
+<li data-sfc-cp="" data-sfc-root="ep"><span data-sfc-cp="" data-sfc-root="ep">True 4K Exporting:<!--TgQPHd|||[]--></span> The free tier often throttles or restricts higher-bitrate outputs, whereas Pro fully unlocks clean <span data-sfc-cp="" data-sfc-root="ep">4K visual processing<!--TgQPHd|||[]--></span>.<!--TgQPHd|||[]--></li>
+<li data-sfc-cp="" data-sfc-root="ep"><span data-sfc-cp="" data-sfc-root="ep">Advanced AI Toolkit:<!--TgQPHd|||[]--></span> Access to advanced auto-caption styling, smart background removal, and premium AI voice isolation tools.<!--TgQPHd|||[]--></li>
+<li data-sfc-cp="" data-sfc-root="ep"><span data-sfc-cp="" data-sfc-root="ep">Expanded Cloud Storage:<!--TgQPHd|||[]--></span> Massive cloud storage space to backup raw video project files across devices.<span data-sfc-root="ep"> [6, 8, 9] <!--TgQPHd|||[]--></span><!--TgQPHd|||[]--></li>
+<li data-sfc-cp="" data-sfc-root="ep"><!--TgQPHd|||[]--></li>
+</ul>
+<!--TgQPHd|||[]--></div>
+<h2 data-sfc-cp="" data-sfc-root="ep">💡 Recommendation for Your Business Startup<!--TgQPHd|||[]--></h2>
+<div data-sfc-cp="" data-sfc-root="ep"><span data-sfc-cp="" data-sfc-root="ep">Start with the Free Tier.<!--TgQPHd|||[]--></span> Do not buy the Pro version immediately.<!--TgQPHd|||[]--></div>
+<div data-sfc-cp="" data-sfc-root="ep">Because you built a powerful desktop with an <span data-sfc-cp="" data-sfc-root="ep">NVIDIA RTX GPU and 32GB of RAM<!--TgQPHd|||[]--></span>, your system can smoothly handle heavy 4K editing workloads on the free version without lagging. Use only the free effects, generate your text layers, and export your videos cleanly without watermarks.<span data-sfc-root="ep"> [2] <!--TgQPHd|||[]--></span><!--TgQPHd|||[]--></div>
+<div data-sfc-cp="" data-sfc-root="ep">Once your YouTube channel begins gaining steady traction and generating revenue from US audiences, you can seamlessly purchase a CapCut Pro subscription directly inside the app to unlock the premium AI tools.<span data-sfc-root="ep"> [3] <!--TgQPHd|||[]--></span><!--TgQPHd|||[]--></div>
+<div data-sfc-cp="" data-sfc-root="ep">Would you like me to show you how to <span data-sfc-cp="" data-sfc-root="ep">avoid accidentally clicking "Pro" features<!--TgQPHd|||[]--></span> while editing, or should we discuss true open-source alternatives like Kdenlive that are completely free forever?<!--TgQPHd|||[]--></div>
+<div data-sfc-root="ep"><br />
+<div>[1] <a href="https://atomisystems.com/screencasting/capcut-pc-review-2026-is-free-video-editing-really-worth-your-time/">https://atomisystems.com</a></div>
+<div>[2] <a href="https://www.capcut.com/resource/pc-professional-video-editor">https://www.capcut.com</a></div>
+<div>[3] <a href="https://www.capcut.com/resource/capcut-pro-pc">https://www.capcut.com</a></div>
+<div>[4] <a href="https://apps.microsoft.com/detail/xp9kn75rrb9nhs">https://apps.microsoft.com</a></div>
+<div>[5] <a href="https://www.capcut.com/resource/capcut-standard-vs-pro">https://www.capcut.com</a></div>
+<div>[6] <a href="https://bigvu.tv/blog/capcut-free-vs-pro-what-2026s-restructure-actually-gives-you/">https://bigvu.tv</a></div>
+<div>[7] <a href="https://www.youtube.com/watch?v=lCwQkweO-3I&amp;t=88">https://www.youtube.com</a></div>
+<div>[8] <a href="https://www.gamsgo.com/blog/capcut-pricing">https://www.gamsgo.com</a></div>
+<div>[9] <a href="https://www.capcut.com/resource/capcut-standard-vs-pro">https://www.capcut.com</a></div>
+<!--TgQPHd|||[]--></div>
+<div data-sfc-root="ep"><!--TgQPHd|||[]--></div>
+<div data-sfc-root="ep"><!--TgQPHd|||[]--></div>
+<div data-sfc-root="ep">&nbsp;</div>
+<div data-sfc-root="ep">
+<div data-sfc-cp="" data-sfc-root="ep">Since you are a <span data-sfc-cp="" data-sfc-root="ep">Linux Administrator<!--TgQPHd|||[]--></span>, your brain is already wired for systematic workflows, structured pipelines, and command-line precision.<!--TgQPHd|||[]--></div>
+<div data-sfc-cp="" data-sfc-root="ep">The good news is that modern video editing software is just a visual database. CapCut is highly intuitive because it replaces terminal flags with buttons. As a sysadmin, you don&rsquo;t need to "guess" how to be creative&mdash;you just need to learn the system's operational architecture.<!--TgQPHd|||[]--></div>
+<div data-sfc-cp="" data-sfc-root="ep">Here is a step-by-step framework designed specifically for a technical mind to master CapCut Desktop in less than a weekend.<!--TgQPHd|||[]--></div>
+<hr data-sfc-root="ep" data-sfc-pl="|||[]" />
+<h2 data-sfc-cp="" data-sfc-root="ep">Step 1: Mapping the System Architecture (Understanding the UI)<!--TgQPHd|||[]--></h2>
+<div data-sfc-cp="" data-sfc-root="ep">Don&rsquo;t look at CapCut as an art tool; look at it as a <span data-sfc-cp="" data-sfc-root="ep">four-quadrant system interface<!--TgQPHd|||[]--></span>. Open the software and map these areas in your mind:<!--TgQPHd|||[]--></div>
+<div data-sfc-cp="" data-sfc-root="ep">
+<div>&nbsp;</div>
+<ol>
+<li data-sfc-cp="" data-sfc-root="ep"><span data-sfc-cp="" data-sfc-root="ep">The Asset Repository (Top Left):<!--TgQPHd|||[]--></span> Think of this as your <code dir="ltr" data-sfc-root="ep">/src/<!--TgQPHd|||[]--></code> directory. This is where you import raw video files, audio tracks, and system assets.<!--TgQPHd|||[]--></li>
+<li data-sfc-cp="" data-sfc-root="ep"><span data-sfc-cp="" data-sfc-root="ep">The Media Player / Output Console (Top Center):<!--TgQPHd|||[]--></span> This is your standard standard-out (<code dir="ltr" data-sfc-root="ep">stdout<!--TgQPHd|||[]--></code>). It displays exactly what the system is rendering at the current timestamp.<!--TgQPHd|||[]--></li>
+<li data-sfc-cp="" data-sfc-root="ep"><span data-sfc-cp="" data-sfc-root="ep">The Parameter / Configuration Panel (Top Right):<!--TgQPHd|||[]--></span> This is your configuration file (<code dir="ltr" data-sfc-root="ep">config.cfg<!--TgQPHd|||[]--></code>). When you click <em data-sfc-root="ep">any<!--TgQPHd|||[]--></em> item in your project, its variables (Scale, Position, Volume, Speed) appear here for modification.<!--TgQPHd|||[]--></li>
+<li data-sfc-cp="" data-sfc-root="ep"><span data-sfc-cp="" data-sfc-root="ep">The Timeline Workspace (Bottom):<!--TgQPHd|||[]--></span> This is your <span data-sfc-cp="" data-sfc-root="ep">cron job / execution queue<!--TgQPHd|||[]--></span>. Time flows from left to right. Tracks are stacked vertically like layers in a container network.<!--TgQPHd|||[]--></li>
+</ol>
+<!--TgQPHd|||[]--></div>
+<hr data-sfc-root="ep" data-sfc-pl="|||[]" />
+<h2 data-sfc-cp="" data-sfc-root="ep">Step 2: The Command Shortcuts (Your Terminal Aliases)<!--TgQPHd|||[]--></h2>
+<div data-sfc-cp="" data-sfc-root="ep">As a Linux admin, you hate using a mouse. You can execute 90% of your editing operations using system hotkeys. Commit these to muscle memory:<!--TgQPHd|||[]--></div>
+<div data-sfc-cp="" data-sfc-root="ep">
+<div>&nbsp;</div>
+<ul>
+<li data-sfc-cp="" data-sfc-root="ep"><span data-sfc-cp="" data-sfc-root="ep"><code dir="ltr" data-sfc-root="ep">Spacebar<!--TgQPHd|||[]--></code><!--TgQPHd|||[]--></span>: Play / Pause the execution preview.<!--TgQPHd|||[]--></li>
+<li data-sfc-cp="" data-sfc-root="ep"><span data-sfc-cp="" data-sfc-root="ep"><code dir="ltr" data-sfc-root="ep">Ctrl + B<!--TgQPHd|||[]--></code> (or <code dir="ltr" data-sfc-root="ep">B<!--TgQPHd|||[]--></code>)<!--TgQPHd|||[]--></span>: The Split Command. This acts like a <code dir="ltr" data-sfc-root="ep">grep<!--TgQPHd|||[]--></code> or <code dir="ltr" data-sfc-root="ep">cut<!--TgQPHd|||[]--></code> tool, slicing a video file into two distinct blocks at your cursor position.<!--TgQPHd|||[]--></li>
+<li data-sfc-cp="" data-sfc-root="ep"><span data-sfc-cp="" data-sfc-root="ep"><code dir="ltr" data-sfc-root="ep">Backspace<!--TgQPHd|||[]--></code> / <code dir="ltr" data-sfc-root="ep">Delete<!--TgQPHd|||[]--></code><!--TgQPHd|||[]--></span>: The <code dir="ltr" data-sfc-root="ep">rm -rf<!--TgQPHd|||[]--></code> command. Slashes out unwanted sections of video or audio.<!--TgQPHd|||[]--></li>
+<li data-sfc-cp="" data-sfc-root="ep"><span data-sfc-cp="" data-sfc-root="ep"><code dir="ltr" data-sfc-root="ep">V<!--TgQPHd|||[]--></code><!--TgQPHd|||[]--></span>: Select tool. Changes your cursor back to a regular pointer to move items around.<!--TgQPHd|||[]--></li>
+</ul>
+<!--TgQPHd|||[]--></div>
+<hr data-sfc-root="ep" data-sfc-pl="|||[]" />
+<h2 data-sfc-cp="" data-sfc-root="ep">Step 3: Your First 5-Step Production Pipeline<!--TgQPHd|||[]--></h2>
+<div data-sfc-cp="" data-sfc-root="ep">To build a YouTube Short, execute this exact linear deployment pipeline:<!--TgQPHd|||[]--></div>
+<h2 data-sfc-cp="" data-sfc-root="ep">🟢 Phase 1: Data Ingestion (<code dir="ltr" data-sfc-root="ep">Import<!--TgQPHd|||[]--></code>)<!--TgQPHd|||[]--></h2>
+<div data-sfc-cp="" data-sfc-root="ep">
+<div>&nbsp;</div>
+<ul>
+<li data-sfc-cp="" data-sfc-root="ep">Drag and drop your raw 4K video clips and your generated AI voiceover <code dir="ltr" data-sfc-root="ep">.mp3<!--TgQPHd|||[]--></code> files into the Top Left repository.<!--TgQPHd|||[]--></li>
+<li data-sfc-cp="" data-sfc-root="ep">Drag the audio file down into the <span data-sfc-cp="" data-sfc-root="ep">Timeline Workspace<!--TgQPHd|||[]--></span> first. <em data-sfc-root="ep">Tip:<!--TgQPHd|||[]--></em> In short-form content, the audio track dictates the pacing of the entire project.<!--TgQPHd|||[]--></li>
+</ul>
+<!--TgQPHd|||[]--></div>
+<h2 data-sfc-cp="" data-sfc-root="ep">🟢 Phase 2: Slicing the Dead Air (<code dir="ltr" data-sfc-root="ep">Optimization<!--TgQPHd|||[]--></code>)<!--TgQPHd|||[]--></h2>
+<div data-sfc-cp="" data-sfc-root="ep">
+<div>&nbsp;</div>
+<ul>
+<li data-sfc-cp="" data-sfc-root="ep">Look at the audio track on your timeline. You will see visual sound waves (waveforms).<!--TgQPHd|||[]--></li>
+<li data-sfc-cp="" data-sfc-root="ep">Move your cursor to the gaps where the waveform drops to zero (silence).<!--TgQPHd|||[]--></li>
+<li data-sfc-cp="" data-sfc-root="ep">Press <code dir="ltr" data-sfc-root="ep">B<!--TgQPHd|||[]--></code> to cut, move to the end of the silence, press <code dir="ltr" data-sfc-root="ep">B<!--TgQPHd|||[]--></code> again, select the empty gap, and hit <code dir="ltr" data-sfc-root="ep">Delete<!--TgQPHd|||[]--></code>. You are essentially compressing the audio file to ensure non-stop pacing for US viewers.<!--TgQPHd|||[]--></li>
+</ul>
+<!--TgQPHd|||[]--></div>
+<h2 data-sfc-cp="" data-sfc-root="ep">🟢 Phase 3: Synchronizing the Visuals (<code dir="ltr" data-sfc-root="ep">Asset Mapping<!--TgQPHd|||[]--></code>)<!--TgQPHd|||[]--></h2>
+<div data-sfc-cp="" data-sfc-root="ep">
+<div>&nbsp;</div>
+<ul>
+<li data-sfc-cp="" data-sfc-root="ep">Drag your video clips down to the track <em data-sfc-root="ep">above<!--TgQPHd|||[]--></em> the audio.<!--TgQPHd|||[]--></li>
+<li data-sfc-cp="" data-sfc-root="ep">Trim the video lengths so that whenever the voiceover changes the subject, a new video clip instantly cuts in.<!--TgQPHd|||[]--></li>
+</ul>
+<!--TgQPHd|||[]--></div>
+<h2 data-sfc-cp="" data-sfc-root="ep">🟢 Phase 4: Compiling Auto-Captions (<code dir="ltr" data-sfc-root="ep">Automation<!--TgQPHd|||[]--></code>)<!--TgQPHd|||[]--></h2>
+<div data-sfc-cp="" data-sfc-root="ep">
+<div>&nbsp;</div>
+<ul>
+<li data-sfc-cp="" data-sfc-root="ep">Go to the Top Left menu and click <span data-sfc-cp="" data-sfc-root="ep">Text<!--TgQPHd|||[]--></span> ➔ <span data-sfc-cp="" data-sfc-root="ep">Auto Captions<!--TgQPHd|||[]--></span>.<!--TgQPHd|||[]--></li>
+<li data-sfc-cp="" data-sfc-root="ep">Select the spoken language (English) and click <span data-sfc-cp="" data-sfc-root="ep">Clear current captions<!--TgQPHd|||[]--></span> ➔ <span data-sfc-cp="" data-sfc-root="ep">Generate<!--TgQPHd|||[]--></span>.<!--TgQPHd|||[]--></li>
+<li data-sfc-cp="" data-sfc-root="ep">CapCut will run a speech-to-text algorithm and print text boxes across your entire timeline automatically.<!--TgQPHd|||[]--></li>
+<li data-sfc-cp="" data-sfc-root="ep">Go to the Top Right Configuration Panel to change the font style, text size, and color once. The system applies this configuration globally to every caption box.<!--TgQPHd|||[]--></li>
+</ul>
+<!--TgQPHd|||[]--></div>
+<h2 data-sfc-cp="" data-sfc-root="ep">🟢 Phase 5: System Output (<code dir="ltr" data-sfc-root="ep">Export<!--TgQPHd|||[]--></code>)<!--TgQPHd|||[]--></h2>
+<div data-sfc-cp="" data-sfc-root="ep">
+<div>&nbsp;</div>
+<ul>
+<li data-sfc-cp="" data-sfc-root="ep">Click the <span data-sfc-cp="" data-sfc-root="ep">Export<!--TgQPHd|||[]--></span> button in the top right corner.<!--TgQPHd|||[]--></li>
+<li data-sfc-cp="" data-sfc-root="ep">Set your parameters: <span data-sfc-cp="" data-sfc-root="ep">Resolution to 4K<!--TgQPHd|||[]--></span>, <span data-sfc-cp="" data-sfc-root="ep">Format to MP4<!--TgQPHd|||[]--></span>, and <span data-sfc-cp="" data-sfc-root="ep">Codec to H.264 or HEVC<!--TgQPHd|||[]--></span>.<!--TgQPHd|||[]--></li>
+<li data-sfc-cp="" data-sfc-root="ep">Hit compile. Your NVIDIA RTX 4060 GPU will instantly run hardware acceleration to output the final render file.<!--TgQPHd|||[]--></li>
+</ul>
+<!--TgQPHd|||[]--></div>
+<hr data-sfc-root="ep" data-sfc-pl="|||[]" />
+<h2 data-sfc-cp="" data-sfc-root="ep">Step 4: The Linux Admin's Shortcut to "Design"<!--TgQPHd|||[]--></h2>
+<div data-sfc-cp="" data-sfc-root="ep">You mentioned you aren't a designer. <span data-sfc-cp="" data-sfc-root="ep">You don't need to be.<!--TgQPHd|||[]--></span><!--TgQPHd|||[]--></div>
+<div data-sfc-cp="" data-sfc-root="ep">CapCut includes thousands of pre-configured templates. Instead of building animations from scratch, navigate to the <span data-sfc-cp="" data-sfc-root="ep">"Effects"<!--TgQPHd|||[]--></span> or <span data-sfc-cp="" data-sfc-root="ep">"Transitions"<!--TgQPHd|||[]--></span> tabs in the top left, pick an automation style you like, and drop it directly onto your video cuts.<!--TgQPHd|||[]--></div>
+<div data-sfc-cp="" data-sfc-root="ep">Think of it like pulling verified Docker images from a registry instead of compiling the source code yourself.<!--TgQPHd|||[]--></div>
+<div data-sfc-cp="" data-sfc-root="ep">To help you get started with zero friction:<!--TgQPHd|||[]--></div>
+<div data-sfc-cp="" data-sfc-root="ep">
+<div>&nbsp;</div>
+<ul>
+<li data-sfc-cp="" data-sfc-root="ep">Would you like me to map out the <span data-sfc-cp="" data-sfc-root="ep">exact mouse clicks and layout configuration<!--TgQPHd|||[]--></span> for setting up your very first project workspace?<!--TgQPHd|||[]--></li>
+<li data-sfc-cp="" data-sfc-root="ep">Or should I show you how to automate your script-to-video workflow using local AI tools before importing the data into CapCut?<!--TgQPHd|||[]--></li>
+</ul>
+<!--TgQPHd|||[]--></div>
+<div data-sfc-root="ep"><br /><!--TgQPHd|||[]--></div>
+<div data-sfc-root="ep"><!--TgQPHd|||[]--></div>
+<div data-sfc-root="ep"><!--TgQPHd|||[]--></div>
+</div>
+</div>
+</div>
+<div data-sfc-root="ep">
+<div data-sfc-root="ep"><!--TgQPHd|||[]--></div>
+<div data-sfc-root="ep"><!--TgQPHd|||[]--></div>
+<div data-sfc-root="ep"><!--TgQPHd|||[]--></div>
+</div>
+</div>
+<div data-sfc-root="ep">
+<div>
+<div data-sfc-root="ep">
+<div data-sfc-root="ep"><!--TgQPHd|||[]--></div>
+<div data-sfc-root="ep"><!--TgQPHd|||[]--></div>
+<div data-sfc-root="ep"><!--TgQPHd|||[]--></div>
+</div>
+</div>
+<!--TgQPHd|||[]--></div>
+<div data-sfc-root="ep"><!--TgQPHd|||[]--></div>
+<div data-sfc-root="ep"><!--TgQPHd|||[]--></div>
+<!-- Comments are visible in the HTML source only -->
