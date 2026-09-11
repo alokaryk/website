@@ -131,3 +131,184 @@ Once I select a number, you will then break that idea down into 7 to 9 step-by-s
 <div data-sfc-root="ep"><!--TgQPHd|||[]--></div>
 </div>
 <!-- Comments are visible in the HTML source only -->
+
+<div data-sfc-cp="" data-sfc-root="ep"><mark data-sfc-cp="" data-sfc-root="ep"><span data-sfc-cp="" data-sfc-root="ep">Yes, you can absolutely use Generative AI to create highly engaging Shorts for this exact project<!--TgQPHd|||[]--></span><!--TgQPHd|||[]--></mark><span data-sfc-cp="" data-sfc-root="ep">.<!--TgQPHd|||[]--></span> In fact, the breakdown you provided is perfect for a 3-part Shorts series or a single, fast-paced 60-second explainer video.<span data-sfc-root="ep"> [1, 2] <!--TgQPHd|||[]--></span><!--TgQPHd|||[]--></div>
+<div data-sfc-cp="" data-sfc-root="ep">Since Generative AI is best at creating text, images, and video clips from patterns, you can use it to build the entire script, generate the visuals, and create the voiceover.<span data-sfc-root="ep"> [3, 4] <!--TgQPHd|||[]--></span><!--TgQPHd|||[]--></div>
+<hr data-sfc-root="ep" data-sfc-pl="|||[]" />
+<h2 data-sfc-cp="" data-sfc-root="ep">🎬 The Strategy: How to Structure Your Shorts<!--TgQPHd|||[]--></h2>
+<div data-sfc-cp="" data-sfc-root="ep">Because Shorts need to grab attention in the first 3 seconds, you should structure the explanation of your text like this:<!--TgQPHd|||[]--></div>
+<div data-sfc-cp="" data-sfc-root="ep">
+<div>&nbsp;</div>
+<ul>
+<li data-sfc-cp="" data-sfc-root="ep"><!--TgQPHd|||[]--></li>
+<li data-sfc-cp="" data-sfc-root="ep"><span data-sfc-cp="" data-sfc-root="ep">The Hook (0&ndash;5s):<!--TgQPHd|||[]--></span> "Did you know there are 3 completely different types of AI? Most people only know the first one!"<!--TgQPHd|||[]--></li>
+<li data-sfc-cp="" data-sfc-root="ep"><span data-sfc-cp="" data-sfc-root="ep">Part 1: Generative AI (5&ndash;20s):<!--TgQPHd|||[]--></span> Explain that it <em data-sfc-root="ep">creates<!--TgQPHd|||[]--></em> new content (text/images) like a creative assistant. <em data-sfc-root="ep">Visual: An artist painting or ChatGPT writing an essay.<!--TgQPHd|||[]--></em><span data-sfc-root="ep"> [5, 6] <!--TgQPHd|||[]--></span><!--TgQPHd|||[]--></li>
+<li data-sfc-cp="" data-sfc-root="ep"><span data-sfc-cp="" data-sfc-root="ep">Part 2: AI Agents (20&ndash;35s):<!--TgQPHd|||[]--></span> Explain that they <em data-sfc-root="ep">execute<!--TgQPHd|||[]--></em> fixed tasks using tools and APIs. <em data-sfc-root="ep">Visual: A digital robot booking a flight ticket or checking a calendar.<!--TgQPHd|||[]--></em><!--TgQPHd|||[]--></li>
+<li data-sfc-cp="" data-sfc-root="ep"><span data-sfc-cp="" data-sfc-root="ep">Part 3: Agentic AI (35&ndash;55s):<!--TgQPHd|||[]--></span> Explain that they <em data-sfc-root="ep">reason and adapt<!--TgQPHd|||[]--></em> when plans change. <em data-sfc-root="ep">Visual: A robot looking at stormy weather, cancelling a hotel, and re-booking a new trip automatically under a budget.<!--TgQPHd|||[]--></em><!--TgQPHd|||[]--></li>
+<li data-sfc-cp="" data-sfc-root="ep"><span data-sfc-cp="" data-sfc-root="ep">The Outro (55&ndash;60s):<!--TgQPHd|||[]--></span> "Which AI do you think will change the future? Comment below!"<!--TgQPHd|||[]--></li>
+<li data-sfc-cp="" data-sfc-root="ep"><!--TgQPHd|||[]--></li>
+</ul>
+<!--TgQPHd|||[]--></div>
+<hr data-sfc-root="ep" data-sfc-pl="|||[]" />
+<h2 data-sfc-cp="" data-sfc-root="ep">🛠️ Step-by-Step Process to Create This Short Using AI<!--TgQPHd|||[]--></h2>
+<h2 data-sfc-cp="" data-sfc-root="ep">Step 1: Refine the Script &amp; Voiceover (Text AI)<!--TgQPHd|||[]--></h2>
+<div data-sfc-cp="" data-sfc-root="ep">Use <span data-sfc-cp="" data-sfc-root="ep">ChatGPT<!--TgQPHd|||[]--></span> or <span data-sfc-cp="" data-sfc-root="ep">Gemini<!--TgQPHd|||[]--></span> to turn your notes into a conversational, snappy script.<span data-sfc-root="ep"> [7] <!--TgQPHd|||[]--></span><!--TgQPHd|||[]--></div>
+<div data-sfc-cp="" data-sfc-root="ep">
+<div>&nbsp;</div>
+<ul>
+<li data-sfc-cp="" data-sfc-root="ep"><!--TgQPHd|||[]--></li>
+<li data-sfc-cp="" data-sfc-root="ep"><span data-sfc-cp="" data-sfc-root="ep">Prompt to use:<!--TgQPHd|||[]--></span> <em data-sfc-root="ep">"Turn this project note into a highly engaging, 50-second YouTube Shorts script. Keep the language simple for non-native speakers, use short punchy sentences, and include specific visual cues for each section."<!--TgQPHd|||[]--></em><!--TgQPHd|||[]--></li>
+<li data-sfc-cp="" data-sfc-root="ep"><span data-sfc-cp="" data-sfc-root="ep">Voice Generation:<!--TgQPHd|||[]--></span> Take the finalized text and paste it into <span data-sfc-cp="" data-sfc-root="ep">ElevenLabs<!--TgQPHd|||[]--></span> or use the built-in text-to-speech feature in CapCut or <span data-sfc-cp="" data-sfc-root="ep">YT Create<!--TgQPHd|||[]--></span> to generate a realistic, professional voiceover.<span data-sfc-root="ep"> [8, 9] <!--TgQPHd|||[]--></span><!--TgQPHd|||[]--></li>
+<li data-sfc-cp="" data-sfc-root="ep"><!--TgQPHd|||[]--></li>
+</ul>
+<!--TgQPHd|||[]--></div>
+<h2 data-sfc-cp="" data-sfc-root="ep">Step 2: Generate the Visuals (Image &amp; Video AI)<!--TgQPHd|||[]--></h2>
+<div data-sfc-cp="" data-sfc-root="ep">Since you need to show the contrast between <em data-sfc-root="ep">Generative<!--TgQPHd|||[]--></em>, <em data-sfc-root="ep">Agents<!--TgQPHd|||[]--></em>, and <em data-sfc-root="ep">Agentic AI<!--TgQPHd|||[]--></em>, you can generate specific clips:<!--TgQPHd|||[]--></div>
+<div data-sfc-root="ep"><!--TgQPHd|||[]--></div>
+<div data-sfc-cp="" data-sfc-root="ep">
+<div>&nbsp;</div>
+<ul>
+<li data-sfc-cp="" data-sfc-root="ep"><!--TgQPHd|||[]--></li>
+<li data-sfc-cp="" data-sfc-root="ep"><span data-sfc-cp="" data-sfc-root="ep">For Generative AI:<!--TgQPHd|||[]--></span> Go to Midjourney or <span data-sfc-cp="" data-sfc-root="ep">DALL&middot;E 3<!--TgQPHd|||[]--></span> and use the prompt: <code dir="ltr" data-sfc-root="ep">/imagine a futuristic AI brain glowing with neon colors, creating digital art and floating code, cinematic lighting --ar 9:16<!--TgQPHd|||[]--></code>.<!--TgQPHd|||[]--></li>
+<li data-sfc-cp="" data-sfc-root="ep"><span data-sfc-cp="" data-sfc-root="ep">For AI Agents:<!--TgQPHd|||[]--></span> Use the prompt: <code dir="ltr" data-sfc-root="ep">A sleek digital dashboard showing a robot icon automatically fetching flight data and ticking off a calendar schedule, clean UI tech style --ar 9:16<!--TgQPHd|||[]--></code>.<!--TgQPHd|||[]--></li>
+<li data-sfc-cp="" data-sfc-root="ep"><span data-sfc-cp="" data-sfc-root="ep">For Agentic AI:<!--TgQPHd|||[]--></span> Use the prompt: <code dir="ltr" data-sfc-root="ep">A smart holographic AI assistant solving a complex maze, adapting its path when a barrier appears, hyper-detailed tech animation --ar 9:16<!--TgQPHd|||[]--></code>.<!--TgQPHd|||[]--></li>
+<li data-sfc-cp="" data-sfc-root="ep"><em data-sfc-root="ep">Optional:<!--TgQPHd|||[]--></em> Turn these images into 4-second video clips using an image-to-video AI like <span data-sfc-cp="" data-sfc-root="ep">Runway Gen-3<!--TgQPHd|||[]--></span> or Kling AI.<span data-sfc-root="ep"> [7, 10, 11] <!--TgQPHd|||[]--></span><!--TgQPHd|||[]--></li>
+<li data-sfc-cp="" data-sfc-root="ep"><!--TgQPHd|||[]--></li>
+</ul>
+<!--TgQPHd|||[]--></div>
+<h2 data-sfc-cp="" data-sfc-root="ep">Step 3: All-in-One Automated Alternative<!--TgQPHd|||[]--></h2>
+<div data-sfc-cp="" data-sfc-root="ep">If you don't want to use multiple tools, you can use an all-in-one AI video generator like <span data-sfc-cp="" data-sfc-root="ep">Invideo AI<!--TgQPHd|||[]--></span> or <span data-sfc-cp="" data-sfc-root="ep">HeyGen<!--TgQPHd|||[]--></span>.<span data-sfc-root="ep"> [2, 12] <!--TgQPHd|||[]--></span><!--TgQPHd|||[]--></div>
+<div data-sfc-cp="" data-sfc-root="ep">
+<div>&nbsp;</div>
+<ul>
+<li data-sfc-cp="" data-sfc-root="ep"><!--TgQPHd|||[]--></li>
+<li data-sfc-cp="" data-sfc-root="ep">Simply select the "YouTube Shorts" workflow.<!--TgQPHd|||[]--></li>
+<li data-sfc-cp="" data-sfc-root="ep">Paste your exact project text into the prompt box.<!--TgQPHd|||[]--></li>
+<li data-sfc-cp="" data-sfc-root="ep">The AI will automatically write the script, generate a voiceover, pull relevant stock/AI footage, and add animated captions.<span data-sfc-root="ep"> [1, 2, 12] <!--TgQPHd|||[]--></span><!--TgQPHd|||[]--></li>
+<li data-sfc-cp="" data-sfc-root="ep"><!--TgQPHd|||[]--></li>
+</ul>
+<!--TgQPHd|||[]--></div>
+<h2 data-sfc-cp="" data-sfc-root="ep">Step 4: Editing &amp; Auto-Captions<!--TgQPHd|||[]--></h2>
+<div data-sfc-cp="" data-sfc-root="ep">Import your generated clips and voiceover into a mobile editor (like <span data-sfc-cp="" data-sfc-root="ep">YT Create<!--TgQPHd|||[]--></span> or <span data-sfc-cp="" data-sfc-root="ep">CapCut<!--TgQPHd|||[]--></span>):<span data-sfc-root="ep"> [8] <!--TgQPHd|||[]--></span><!--TgQPHd|||[]--></div>
+<div data-sfc-cp="" data-sfc-root="ep">
+<div>&nbsp;</div>
+<ul>
+<li data-sfc-cp="" data-sfc-root="ep"><!--TgQPHd|||[]--></li>
+<li data-sfc-cp="" data-sfc-root="ep"><span data-sfc-cp="" data-sfc-root="ep">Auto-Captions:<!--TgQPHd|||[]--></span> Turn on "Auto-Captions". Dynamic, colorful, pop-up text is crucial for Shorts because many people watch them on mute.<!--TgQPHd|||[]--></li>
+<li data-sfc-cp="" data-sfc-root="ep"><span data-sfc-cp="" data-sfc-root="ep">Pacing:<!--TgQPHd|||[]--></span> Cut out any silences. Ensure the visuals change every 3 to 4 seconds to keep the viewer's brain hooked.<span data-sfc-root="ep"> [8, 11] <!--TgQPHd|||[]--></span><!--TgQPHd|||[]--></li>
+<li data-sfc-cp="" data-sfc-root="ep"><!--TgQPHd|||[]--></li>
+</ul>
+<!--TgQPHd|||[]--></div>
+<div data-sfc-cp="" data-sfc-root="ep">Would you like me to <span data-sfc-cp="" data-sfc-root="ep">write the exact, ready-to-use video script<!--TgQPHd|||[]--></span> based on your text, or would you prefer a <span data-sfc-cp="" data-sfc-root="ep">specific step-by-step prompt<!--TgQPHd|||[]--></span> to feed into an all-in-one tool like Invideo AI?<!--TgQPHd|||[]--></div>
+<div data-sfc-root="ep"><br />
+<div>[1] <a href="https://www.youtube.com/watch?v=CSlQUWbjpQU&amp;vl=en">https://www.youtube.com</a></div>
+<div>[2] <a href="https://www.heygen.com/en-in/tool/ai-youtube-shorts-generator">https://www.heygen.com</a></div>
+<div>[3] <a href="https://www.geeksforgeeks.org/artificial-intelligence/what-is-generative-ai/">https://www.geeksforgeeks.org</a></div>
+<div>[4] <a href="https://riseuplabs.com/what-is-generative-ai/">https://riseuplabs.com</a></div>
+<div>[5] <a href="https://www.microsoft.com/en/ai/ai-101/how-does-generative-ai-work">https://www.microsoft.com</a></div>
+<div>[6] <a href="https://www.facebook.com/SDMFoundation/posts/generative-ai-is-a-type-of-ai-that-can-create-new-contentinstead-of-just-finding/1555039769998251/">https://www.facebook.com</a></div>
+<div>[7] <a href="https://www.investopedia.com/generative-ai-7497939">https://www.investopedia.com</a></div>
+<div>[8] <a href="https://www.youtube.com/watch?v=XX3JzfYo1Rk">https://www.youtube.com</a></div>
+<div>[9] <a href="https://www.microsoft.com/en-in/ai/ai-101/how-does-generative-ai-work">https://www.microsoft.com</a></div>
+<div>[10] <a href="https://www.youtube.com/watch?v=G4vHL9QyuXw">https://www.youtube.com</a></div>
+<div>[11] <a href="https://www.reddit.com/r/aitubers/comments/1r0mrt9/how_i_make_short_ai_videos_that_actually_hold/">https://www.reddit.com</a></div>
+<div>[12] <a href="https://invideo.io/make/ai-youtube-shorts-generator/">https://invideo.io</a></div>
+<!--TgQPHd|||[]--></div>
+<div data-sfc-root="ep"><!--TgQPHd|||[]--></div>
+<div data-sfc-root="ep">&nbsp;</div>
+<div data-sfc-root="ep">
+<h2 data-sfc-cp="" data-sfc-root="ep">1. Midjourney, DALL&middot;E 3, and Gemini Explained<!--TgQPHd|||[]--></h2>
+<div data-sfc-cp="" data-sfc-root="ep"><mark data-sfc-cp="" data-sfc-root="ep"><span data-sfc-cp="" data-sfc-root="ep">Midjourney and DALL&middot;E 3 are not inbuilt into Gemini.<!--TgQPHd|||[]--></span><!--TgQPHd|||[]--></mark> They are completely separate AI models owned by different companies:<!--TgQPHd|||[]--></div>
+<div data-sfc-cp="" data-sfc-root="ep">
+<div>&nbsp;</div>
+<ul>
+<li data-sfc-cp="" data-sfc-root="ep"><span data-sfc-cp="" data-sfc-root="ep">DALL&middot;E 3<!--TgQPHd|||[]--></span> is made by OpenAI. You can access it directly inside <span data-sfc-cp="" data-sfc-root="ep">ChatGPT Plus<!--TgQPHd|||[]--></span> or for free via <span data-sfc-cp="" data-sfc-root="ep">Microsoft Copilot<!--TgQPHd|||[]--></span>.<!--TgQPHd|||[]--></li>
+<li data-sfc-cp="" data-sfc-root="ep"><span data-sfc-cp="" data-sfc-root="ep">Midjourney<!--TgQPHd|||[]--></span> is an independent platform accessed through its own website (midjourney.com) or Discord.<!--TgQPHd|||[]--></li>
+<li data-sfc-cp="" data-sfc-root="ep"><span data-sfc-cp="" data-sfc-root="ep">Gemini<!--TgQPHd|||[]--></span> is made by Google. It has its own built-in image generator called <span data-sfc-cp="" data-sfc-root="ep">Imagen 3<!--TgQPHd|||[]--></span>. You can ask Gemini directly to create an image, and it will use Imagen 3 automatically.<!--TgQPHd|||[]--></li>
+</ul>
+<!--TgQPHd|||[]--></div>
+<div data-sfc-cp="" data-sfc-root="ep">Since you mentioned you do not have AI agents or Agentic AI, <span data-sfc-cp="" data-sfc-root="ep">that is perfectly fine!<!--TgQPHd|||[]--></span> Your video is simply <em data-sfc-root="ep">explaining<!--TgQPHd|||[]--></em> what they are to your audience using standard Generative AI tools.<!--TgQPHd|||[]--></div>
+<hr data-sfc-root="ep" data-sfc-pl="|||[]" />
+<h2 data-sfc-cp="" data-sfc-root="ep">2. Ready-to-Use 60-Second Video Script<!--TgQPHd|||[]--></h2>
+<div data-sfc-cp="" data-sfc-root="ep"><em data-sfc-root="ep">Copy and paste this script directly into your voiceover tool or read it aloud.<!--TgQPHd|||[]--></em><!--TgQPHd|||[]--></div>
+<table data-sfc-cp="" data-sfc-root="ep">
+<tbody>
+<tr data-sfc-cp="" data-sfc-root="ep">
+<th data-sfc-cp="" data-sfc-root="ep">Time<!--TgQPHd|||[]--></th>
+<th data-sfc-cp="" data-sfc-root="ep">Visual Scene<!--TgQPHd|||[]--></th>
+<th data-sfc-cp="" data-sfc-root="ep">Audio Voiceover (What to say)<!--TgQPHd|||[]--></th>
+<!--TgQPHd|||[]--></tr>
+<tr data-sfc-cp="" data-sfc-root="ep">
+<td data-sfc-cp="" data-sfc-root="ep"><span data-sfc-cp="" data-sfc-root="ep">00:00 - 00:05<!--TgQPHd|||[]--></span><!--TgQPHd|||[]--></td>
+<td data-sfc-cp="" data-sfc-root="ep">Fast-paced tech background. Text on screen: "3 Types of AI"<!--TgQPHd|||[]--></td>
+<td data-sfc-cp="" data-sfc-root="ep"><span data-sfc-cp="" data-sfc-root="ep">"Most people think AI is just ChatGPT. But there are actually three completely different types of AI!"<!--TgQPHd|||[]--></span><!--TgQPHd|||[]--></td>
+<!--TgQPHd|||[]--></tr>
+<tr data-sfc-cp="" data-sfc-root="ep">
+<td data-sfc-cp="" data-sfc-root="ep"><span data-sfc-cp="" data-sfc-root="ep">00:05 - 00:20<!--TgQPHd|||[]--></span><!--TgQPHd|||[]--></td>
+<td data-sfc-cp="" data-sfc-root="ep">Show an AI brain generating digital art and writing text.<!--TgQPHd|||[]--></td>
+<td data-sfc-cp="" data-sfc-root="ep"><span data-sfc-cp="" data-sfc-root="ep">"First: Generative AI. This is like your creative assistant. It learns from existing data to create brand-new text, images, or code from your prompts."<!--TgQPHd|||[]--></span><!--TgQPHd|||[]--></td>
+<!--TgQPHd|||[]--></tr>
+<tr data-sfc-cp="" data-sfc-root="ep">
+<td data-sfc-cp="" data-sfc-root="ep"><span data-sfc-cp="" data-sfc-root="ep">00:20 - 00:35<!--TgQPHd|||[]--></span><!--TgQPHd|||[]--></td>
+<td data-sfc-cp="" data-sfc-root="ep">Show a digital calendar ticking off tasks or an airplane icon booking a flight.<!--TgQPHd|||[]--></td>
+<td data-sfc-cp="" data-sfc-root="ep"><span data-sfc-cp="" data-sfc-root="ep">"Second: AI Agents. These are built for automation. They follow fixed logic to execute tasks using APIs&mdash;like fetching flight data or scheduling your meetings automatically."<!--TgQPHd|||[]--></span><!--TgQPHd|||[]--></td>
+<!--TgQPHd|||[]--></tr>
+<tr data-sfc-cp="" data-sfc-root="ep">
+<td data-sfc-cp="" data-sfc-root="ep"><span data-sfc-cp="" data-sfc-root="ep">00:35 - 00:50<!--TgQPHd|||[]--></span><!--TgQPHd|||[]--></td>
+<td data-sfc-cp="" data-sfc-root="ep">Show a smart hologram changing routes on a map due to a stormy weather icon.<!--TgQPHd|||[]--></td>
+<td data-sfc-cp="" data-sfc-root="ep"><span data-sfc-cp="" data-sfc-root="ep">"Third: Agentic AI. This is the future. It can reason, plan, and adapt. If a flight is canceled or weather changes, it completely rewrites the plan to achieve your goal."<!--TgQPHd|||[]--></span><!--TgQPHd|||[]--></td>
+<!--TgQPHd|||[]--></tr>
+<tr data-sfc-cp="" data-sfc-root="ep">
+<td data-sfc-cp="" data-sfc-root="ep"><span data-sfc-cp="" data-sfc-root="ep">00:50 - 01:00<!--TgQPHd|||[]--></span><!--TgQPHd|||[]--></td>
+<td data-sfc-cp="" data-sfc-root="ep">Text on screen: "Comment Below!". Bright, engaging background.<!--TgQPHd|||[]--></td>
+<td data-sfc-cp="" data-sfc-root="ep"><span data-sfc-cp="" data-sfc-root="ep">"Which AI do you think is more powerful? Drop your thoughts in the comments and subscribe for more!"<!--TgQPHd|||[]--></span><!--TgQPHd|||[]--></td>
+<!--TgQPHd|||[]--></tr>
+<!--TgQPHd|||[]--></tbody>
+</table>
+<hr data-sfc-root="ep" data-sfc-pl="|||[]" />
+<h2 data-sfc-cp="" data-sfc-root="ep">3. Master Prompt for Invideo AI / HeyGen<!--TgQPHd|||[]--></h2>
+<div data-sfc-cp="" data-sfc-root="ep">If you use an all-in-one generator, copy and paste this <span data-sfc-cp="" data-sfc-root="ep">exact prompt<!--TgQPHd|||[]--></span> into the tool to get a completed video instantly:<!--TgQPHd|||[]--></div>
+<div dir="ltr" data-sfc-root="ep">
+<pre><code class="language-text">Create a 60-second YouTube Short explaining the 3 types of AI. Use an engaging, high-energy American male voiceover. The video must have dynamic, colorful word-by-word auto-captions on screen. 
+
+Structure the video exactly like this script:
+1. Start with a hook: "Most people think AI is just ChatGPT. But there are actually three completely different types of AI!"
+2. Explain Generative AI: It creates new content like text and images based on prompts (e.g., ChatGPT, DALL-E). Show creative AI visuals.
+3. Explain AI Agents: They automate tasks following fixed logic using APIs, like booking a flight. Show automated tech/calendar visuals.
+4. Explain Agentic AI: The most advanced type that can reason and adapt its plan if things change (like bad weather or expired visas). Show intelligent, adaptive robotic/hologram visuals.
+5. End with a call to action: Asking viewers to comment on which AI is more powerful.
+
+Keep the pacing fast, cutting the visuals every 3 seconds to maximize retention.
+</code></pre>
+<!--TgQPHd|||[]--></div>
+<hr data-sfc-root="ep" data-sfc-pl="|||[]" />
+<h2 data-sfc-cp="" data-sfc-root="ep">4. How to Use Invideo AI and HeyGen on Mobile<!--TgQPHd|||[]--></h2>
+<div data-sfc-cp="" data-sfc-root="ep"><span data-sfc-cp="" data-sfc-root="ep">Yes, you can use Invideo AI and HeyGen on your mobile phone just like YT Create<!--TgQPHd|||[]--></span>, but they work a bit differently. YT Create is a manual editing app (you bring your own clips and assemble them). Invideo and HeyGen are <span data-sfc-cp="" data-sfc-root="ep">automated AI platforms<!--TgQPHd|||[]--></span>&mdash;you give them text, and they build the video for you.<!--TgQPHd|||[]--></div>
+<h2 data-sfc-cp="" data-sfc-root="ep">How to use Invideo AI on Mobile:<!--TgQPHd|||[]--></h2>
+<div data-sfc-cp="" data-sfc-root="ep">
+<div>&nbsp;</div>
+<ol>
+<li data-sfc-cp="" data-sfc-root="ep">Download the <span data-sfc-cp="" data-sfc-root="ep">Invideo AI<!--TgQPHd|||[]--></span> app from the App Store / Play Store (or open <code dir="ltr" data-sfc-root="ep">invideo.io<!--TgQPHd|||[]--></code> in your mobile Chrome/Safari browser).<!--TgQPHd|||[]--></li>
+<li data-sfc-cp="" data-sfc-root="ep">Create an account and select the <span data-sfc-cp="" data-sfc-root="ep">YouTube Shorts<!--TgQPHd|||[]--></span> workflow.<!--TgQPHd|||[]--></li>
+<li data-sfc-cp="" data-sfc-root="ep">Paste the <span data-sfc-cp="" data-sfc-root="ep">Master Prompt<!--TgQPHd|||[]--></span> provided in Section 3 into the prompt box.<!--TgQPHd|||[]--></li>
+<li data-sfc-cp="" data-sfc-root="ep">Select your target audience (e.g., Tech Enthusiasts) and look/feel (e.g., Futuristic).<!--TgQPHd|||[]--></li>
+<li data-sfc-cp="" data-sfc-root="ep">Click <span data-sfc-cp="" data-sfc-root="ep">Generate<!--TgQPHd|||[]--></span>. The AI will automatically generate the script, voiceover, stock videos, transitions, and captions. You can then download it directly to your phone gallery.<!--TgQPHd|||[]--></li>
+</ol>
+<!--TgQPHd|||[]--></div>
+<h2 data-sfc-cp="" data-sfc-root="ep">How to use HeyGen on Mobile:<!--TgQPHd|||[]--></h2>
+<div data-sfc-cp="" data-sfc-root="ep">HeyGen is best known for creating videos with <span data-sfc-cp="" data-sfc-root="ep">hyper-realistic digital humans (avatars)<!--TgQPHd|||[]--></span> speaking your script.<!--TgQPHd|||[]--></div>
+<div data-sfc-cp="" data-sfc-root="ep">
+<div>&nbsp;</div>
+<ol>
+<li data-sfc-cp="" data-sfc-root="ep">Open <code dir="ltr" data-sfc-root="ep">heygen.com<!--TgQPHd|||[]--></code> in your mobile browser.<!--TgQPHd|||[]--></li>
+<li data-sfc-cp="" data-sfc-root="ep">Select a vertical (9:16) layout and choose an AI Avatar (an actor who will speak your script).<!--TgQPHd|||[]--></li>
+<li data-sfc-cp="" data-sfc-root="ep">Paste the <span data-sfc-cp="" data-sfc-root="ep">Ready-to-Use Video Script<!--TgQPHd|||[]--></span> (from Section 2) into the text box.<!--TgQPHd|||[]--></li>
+<li data-sfc-cp="" data-sfc-root="ep">Choose an American voice accent.<!--TgQPHd|||[]--></li>
+<li data-sfc-cp="" data-sfc-root="ep">Click <span data-sfc-cp="" data-sfc-root="ep">Submit/Generate<!--TgQPHd|||[]--></span>. HeyGen will create a video of a realistic human talking about Generative, Agent, and Agentic AI with perfect lip-syncing.<!--TgQPHd|||[]--></li>
+</ol>
+<!--TgQPHd|||[]--></div>
+<div data-sfc-cp="" data-sfc-root="ep">Would you like help choosing between an <span data-sfc-cp="" data-sfc-root="ep">AI Avatar video (HeyGen)<!--TgQPHd|||[]--></span> or a <span data-sfc-cp="" data-sfc-root="ep">faceless stock-footage video (Invideo)<!--TgQPHd|||[]--></span> for your channel?<!--TgQPHd|||[]--></div>
+<div data-sfc-root="ep"><br /><!--TgQPHd|||[]--></div>
+<div data-sfc-root="ep"><!--TgQPHd|||[]--></div>
+<div data-sfc-root="ep"><!--TgQPHd|||[]--></div>
+</div>
