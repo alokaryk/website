@@ -75,3 +75,62 @@
 <div data-sfc-root="ep"><!--TgQPHd|||[]--></div>
 <div data-sfc-root="ep"><!--TgQPHd|||[]--></div>
 <!-- Comments are visible in the HTML source only -->
+
+<div data-sfc-cp="" data-sfc-root="ep">
+<div data-sfc-cp="" data-sfc-root="ep"><mark data-sfc-cp="" data-sfc-root="ep"><span data-sfc-cp="" data-sfc-root="ep">Yes, every single YouTube Short has a different thumbnail<!--TgQPHd|||[]--></span><!--TgQPHd|||[]--></mark>, but how they get that thumbnail&mdash;and whether viewers actually see it&mdash;depends entirely on how the creator uploads it and where the viewer is browsing.<span data-sfc-root="ep"> [1, 2] <!--TgQPHd|||[]--></span><!--TgQPHd|||[]--></div>
+<div data-sfc-cp="" data-sfc-root="ep">By default, YouTube will <span data-sfc-cp="" data-sfc-root="ep">automatically select a random frame<!--TgQPHd|||[]--></span> from a video to act as its thumbnail if the creator doesn't choose one. However, creators have full control to make every Short's thumbnail distinct.<span data-sfc-root="ep"> [2, 3] <!--TgQPHd|||[]--></span><!--TgQPHd|||[]--></div>
+<div data-sfc-cp="" data-sfc-root="ep">Here is exactly how differing thumbnails work for YouTube Shorts:<!--TgQPHd|||[]--></div>
+<h2 data-sfc-cp="" data-sfc-root="ep">1. Where do the different thumbnails come from?<!--TgQPHd|||[]--></h2>
+<div data-sfc-cp="" data-sfc-root="ep">Creators can set unique thumbnails for each Short using a few methods:<!--TgQPHd|||[]--></div>
+<div data-sfc-cp="" data-sfc-root="ep">
+<div>&nbsp;</div>
+<ul>
+<li data-sfc-cp="" data-sfc-root="ep"><!--TgQPHd|||[]--></li>
+<li data-sfc-cp="" data-sfc-root="ep"><span data-sfc-cp="" data-sfc-root="ep">The Desktop Upload (Latest Update):<!--TgQPHd|||[]--></span> Creators in the YouTube Partner Program can upload a <span data-sfc-cp="" data-sfc-root="ep">fully custom 9:16 vertical image file<!--TgQPHd|||[]--></span> via <a href="https://studio.youtube.com/" data-sfc-cp="" data-sfc-root="ep">YouTube Studio<!--TgQPHd|||[]--></a> on a computer, giving them total design freedom just like long-form videos.<span data-sfc-root="ep"> [1, 4] <!--TgQPHd|||[]--></span><!--TgQPHd|||[]--></li>
+<li data-sfc-cp="" data-sfc-root="ep"><span data-sfc-cp="" data-sfc-root="ep">The Mobile App Frame Selector:<!--TgQPHd|||[]--></span> When uploading on a phone, creators can use a frame-scrubber tool (the pencil icon) to pick the absolute best, most engaging single second of their video to serve as the cover.<span data-sfc-root="ep"> [5] <!--TgQPHd|||[]--></span><!--TgQPHd|||[]--></li>
+<li data-sfc-cp="" data-sfc-root="ep"><span data-sfc-cp="" data-sfc-root="ep">Text &amp; Filters Overlays:<!--TgQPHd|||[]--></span> The mobile app also allows creators to layer text and emojis over a selected video frame so every Short looks completely unique.<span data-sfc-root="ep"> [6] <!--TgQPHd|||[]--></span><!--TgQPHd|||[]--></li>
+<li data-sfc-cp="" data-sfc-root="ep"><!--TgQPHd|||[]--></li>
+</ul>
+<!--TgQPHd|||[]--></div>
+<h2 data-sfc-cp="" data-sfc-root="ep">2. When do viewers see these different thumbnails?<!--TgQPHd|||[]--></h2>
+<div data-sfc-cp="" data-sfc-root="ep">Unlike long-form videos, a Short's thumbnail isn't visible everywhere. The thumbnail <span data-sfc-cp="" data-sfc-root="ep">only<!--TgQPHd|||[]--></span> appears when viewers are browsing outside the main swipe feed.<span data-sfc-root="ep"> [1, 6] <!--TgQPHd|||[]--></span><!--TgQPHd|||[]--></div>
+<div data-sfc-root="ep"><!--TgQPHd|||[]--></div>
+<table data-sfc-cp="" data-sfc-root="ep">
+<tbody>
+<tr data-sfc-cp="" data-sfc-root="ep">
+<th data-sfc-cp="" data-sfc-root="ep">Placement<!--TgQPHd|||[]--></th>
+<th data-sfc-cp="" data-sfc-root="ep">Do they see the unique thumbnail?<!--TgQPHd|||[]--></th>
+<!--TgQPHd|||[]--></tr>
+<tr data-sfc-cp="" data-sfc-root="ep">
+<td data-sfc-cp="" data-sfc-root="ep"><span data-sfc-cp="" data-sfc-root="ep">The Shorts Feed<!--TgQPHd|||[]--></span> (Swiping up/down)<!--TgQPHd|||[]--></td>
+<td data-sfc-cp="" data-sfc-root="ep"><span data-sfc-cp="" data-sfc-root="ep">No.<!--TgQPHd|||[]--></span> Viewers bypass the thumbnail completely and the video auto-plays immediately.<!--TgQPHd|||[]--></td>
+<!--TgQPHd|||[]--></tr>
+<tr data-sfc-cp="" data-sfc-root="ep">
+<td data-sfc-cp="" data-sfc-root="ep"><span data-sfc-cp="" data-sfc-root="ep">Channel Grid<!--TgQPHd|||[]--></span> (Your Shorts tab)<!--TgQPHd|||[]--></td>
+<td data-sfc-cp="" data-sfc-root="ep"><span data-sfc-cp="" data-sfc-root="ep">Yes.<!--TgQPHd|||[]--></span> Viewers see a clean grid of all your custom or selected thumbnails.<!--TgQPHd|||[]--></td>
+<!--TgQPHd|||[]--></tr>
+<tr data-sfc-cp="" data-sfc-root="ep">
+<td data-sfc-cp="" data-sfc-root="ep"><span data-sfc-cp="" data-sfc-root="ep">YouTube Search Results<!--TgQPHd|||[]--></span><!--TgQPHd|||[]--></td>
+<td data-sfc-cp="" data-sfc-root="ep"><span data-sfc-cp="" data-sfc-root="ep">Yes.<!--TgQPHd|||[]--></span> Vertical thumbnails appear next to titles when users search for topics.<!--TgQPHd|||[]--></td>
+<!--TgQPHd|||[]--></tr>
+<tr data-sfc-cp="" data-sfc-root="ep">
+<td data-sfc-cp="" data-sfc-root="ep"><span data-sfc-cp="" data-sfc-root="ep">Home Feed / Browse Features<!--TgQPHd|||[]--></span><!--TgQPHd|||[]--></td>
+<td data-sfc-cp="" data-sfc-root="ep"><span data-sfc-cp="" data-sfc-root="ep">Yes.<!--TgQPHd|||[]--></span> The unique thumbnail appears on the horizontal "Shorts Shelf".<!--TgQPHd|||[]--></td>
+<!--TgQPHd|||[]--></tr>
+<!--TgQPHd|||[]--></tbody>
+</table>
+<div data-sfc-cp="" data-sfc-root="ep">Even though a huge portion of traffic comes from the main swiping feed, unique and engineered thumbnails are vital for capturing clicks from search, recommended shelves, and channel homepages.<span data-sfc-root="ep"> [1, 6] <!--TgQPHd|||[]--></span><!--TgQPHd|||[]--></div>
+<div data-sfc-cp="" data-sfc-root="ep">Would you like to know how to <span data-sfc-cp="" data-sfc-root="ep">"bake" a custom-designed thumbnail<!--TgQPHd|||[]--></span> directly into your video timeline before exporting, or do you want to explore the <span data-sfc-cp="" data-sfc-root="ep">latest YouTube Studio desktop update<!--TgQPHd|||[]--></span> for uploading them?<!--TgQPHd|||[]--></div>
+<div data-sfc-root="ep"><br />
+<div>[1] <a href="https://vidiq.com/blog/post/youtube-shorts-custom-thumbnails/">https://vidiq.com</a></div>
+<div>[2] <a href="https://www.quora.com/Is-it-a-recommended-practice-to-add-thumbnails-to-YouTube-shorts-in-2023-What-is-your-opinion">https://www.quora.com</a></div>
+<div>[3] <a href="https://miraflow.ai/blog/youtube-shorts-custom-thumbnails-2026">https://miraflow.ai</a></div>
+<div>[4] <a href="https://blog.youtube/news-and-events/youtube-studio-custom-thumbnail-updates/">https://blog.youtube</a></div>
+<div>[5] <a href="https://gyre.pro/blog/how-to-change-thumbnail-on-youtube-shorts">https://gyre.pro</a></div>
+<div>[6] <a href="https://www.youtube.com/watch?v=6j6iv9pVR0M">https://www.youtube.com</a></div>
+<!--TgQPHd|||[]--></div>
+<div data-sfc-root="ep"><!--TgQPHd|||[]--></div>
+</div>
+<div data-sfc-root="ep"><!--TgQPHd|||[]--></div>
+<div data-sfc-root="ep"><!--TgQPHd|||[]--></div>
+<!-- Comments are visible in the HTML source only -->
